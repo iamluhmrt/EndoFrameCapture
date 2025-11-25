@@ -1,7 +1,7 @@
 # EndoFrameCapture
 
 A lightweight Java Swing tool for real-time webcam preview and static frame capture using OpenCV.  
-This project is an isolated prototype that will later be integrated into a medical imaging system.
+This project is an isolated prototype that will later be integrated into a medical system.
 
 ## Features
 - Live webcam preview  
